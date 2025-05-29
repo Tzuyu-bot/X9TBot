@@ -11,6 +11,11 @@
 
 ## 🛠 技术栈
 - [Airtest](https://airtest.netease.com/) - 用于 UI 自动化
+- ADB - 使用 adb 工具连接，并可在不同分辨率下适配运行
 - Python 3.x
-  相关库：
+  
+  相关库:
+  
+  ![相关库](相关库.png)
+  
 - 图像识别+脚本操作
