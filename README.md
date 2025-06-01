@@ -30,7 +30,9 @@
 
   ├── re : 正则表达式处理，在字符串中进行复杂的模式匹配、查找、替换和分割操作。
 
-  └── datetime : 周奖励、月奖励、赛季结算的日期计算
+  ├── datetime : 周奖励、月奖励、赛季结算的日期计算
+
+  └── Opencv与numpy : 在airtest中，airtest.aircv 是基于 OpenCV (cv2) 和 NumPy (np) 的封装
   
 - 图像识别+脚本操作
 
